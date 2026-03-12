@@ -2,7 +2,7 @@
 title: AWMC BOT 基础教程
 description: 
 published: true
-date: 2026-03-11T16:43:29.237Z
+date: 2026-03-12T08:07:13.425Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-11T16:43:29.237Z
@@ -22,7 +22,7 @@ dateCreated: 2026-03-11T16:43:29.237Z
 
 绑定水鱼请使用`maibindfish`，绑定落雪请使用`maibindlx`。
 
-水鱼需要准备好导入Token [http://diving-fish.com/maimaidx/prober/](https://maimai.diving-fish.com/) ，落雪需要好友码 [https://maimai.lxns.net/user/profile](https://maimai.lxns.net/user/profile)
+水鱼需要准备好导入Token [https://maimai.diving-fish.com/](https://maimai.diving-fish.com/) ，落雪需要好友码 [https://maimai.lxns.net/user/profile](https://maimai.lxns.net/user/profile)
 
 ![diving-fish-1.png](/images/diving-fish-1.png)
 ![lx-1.png](/images/lx-1.png)
