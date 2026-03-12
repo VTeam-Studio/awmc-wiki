@@ -20,7 +20,7 @@ dateCreated: 2026-03-11T16:43:29.237Z
 # 上传b50
 1. 在使用上传b50时，请保证你已经绑定水鱼或落雪。
 
-绑定水鱼请使用maibindfish，绑定落雪请使用maibindlx。
+绑定水鱼请使用`maibindfish`，绑定落雪请使用`maibindlx`。
 
 水鱼需要准备好导入Token http://diving-fish.com/maimaidx/prober/ ，落雪需要好友码 https://maimai.lxns.net/user/profile
 
